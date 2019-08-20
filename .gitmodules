@@ -1,0 +1,3 @@
+[submodule "TecoGAN"]
+	path = TecoGAN
+	url = https://github.com/thunil/TecoGAN.git
